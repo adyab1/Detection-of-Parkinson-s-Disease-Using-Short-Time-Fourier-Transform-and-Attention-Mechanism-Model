@@ -1,0 +1,1 @@
+# Detection-of-Parkinson-s-Disease-Using-Short-Time-Fourier-Transform-and-Attention-Mechanism-Model
